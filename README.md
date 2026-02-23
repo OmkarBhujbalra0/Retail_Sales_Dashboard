@@ -4,7 +4,8 @@
 The main objective of this analysis is to identify the key revenue drivers and how pricing,volume and seasonal changes affects the overall revenue.
 
 ## Dashboard
-<img width="900" height="511" alt="image" src="https://github.com/user-attachments/assets/9d4eb685-6615-48e4-976f-be2f23f8fe68" />
+<img width="902" height="505" alt="image" src="https://github.com/user-attachments/assets/e6452e09-41ea-4c84-9309-05b10e158bac" />
+
 
 
 ## Key Insights
