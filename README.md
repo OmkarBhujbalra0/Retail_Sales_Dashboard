@@ -3,6 +3,10 @@
 ## Objective
 The main objective of this analysis is to identify the key revenue drivers and how pricing,volume and seasonal changes affects the overall revenue.
 
+## Dashboard
+<img width="900" height="511" alt="image" src="https://github.com/user-attachments/assets/9d4eb685-6615-48e4-976f-be2f23f8fe68" />
+
+
 ## Key Insights
 1. Electronics - Stable Category
 - Generates Highest Revenue out of all three categories
